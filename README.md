@@ -12,7 +12,5 @@ Email : yosan7939@naver.com <br/><br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLarry7939&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-
-
-https://github.com/Sling-Inc/coding-test-android-larry7939/assets/70442964/c6f836bc-8493-49b9-8464-7908c243ba78
-https://github.com/Sling-Inc/coding-test-android-larry7939/assets/70442964/425fa5c7-5fe4-4a2b-ad26-182b6fa65a6e
+<img src="https://github.com/Sling-Inc/coding-test-android-larry7939/assets/70442964/c6f836bc-8493-49b9-8464-7908c243ba78">
+<img src="https://github.com/Sling-Inc/coding-test-android-larry7939/assets/70442964/425fa5c7-5fe4-4a2b-ad26-182b6fa65a6e">
