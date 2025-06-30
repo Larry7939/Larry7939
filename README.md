@@ -13,7 +13,7 @@
 
 </div>
 
-### Me?
+### 😎 Me?
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/huni_9812)  [![Tech Blog](https://img.shields.io/badge/Tech_Blog-111111?style=for-the-badge&logo=GitBook&logoColor=white)](https://velog.io/@yosan7939/posts)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%A7%80%ED%9B%88-%EB%B0%95-4b5459269/)
 ---
 
@@ -38,7 +38,7 @@
 
 ---
 
-### 🧑‍💻 Development Related
+### 💻 Development Related
 - 31st SOPT Android Development (2022)
 
 ---
