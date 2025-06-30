@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=👋%20It's%20Jihun%20Park(Larry)&height=220&fontColor=ECE7E5&&color=timeGradient&fontAlignY=40)  
+![header](https://capsule-render.vercel.app/api?type=Waving&text=👋%20It's%20JiHun%20Park(Larry)&height=220&fontColor=ECE7E5&&color=timeGradient&fontAlignY=40)  
 <br/><br/>
 
 <div align="center">
