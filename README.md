@@ -8,11 +8,6 @@ Email : yosan7939@gmail.com <br/><br/><br/>
 <img src="https://img.shields.io/badge/Android-38DF88?style=for-the-badge&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Python-FFDD55?style=for-the-badge&logo=Python&logoColor=4984B2"> <br/><br/><br/>
   
-<img
-  src="https://render.gitanimals.org/farms/Larry7939"
-  width="600"
-  height="300"
-/>
-</a>
+
 
 </div>
