@@ -23,7 +23,7 @@
 ---
 
 ### 💼 Careers
-- **2024.07 ~ Present**: [ATAD](https://www.atad.ai/)  
+- **2024.07 ~ 2025.08**: [ATAD](https://www.atad.ai/)  
   _Kraton VPN_, Android Developer
 - **2023.09 ~ 2024.04**: [HappyMoonday](https://happymoonday.com/)  
   _Heymoon_, Android Developer  
