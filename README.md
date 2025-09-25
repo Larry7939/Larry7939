@@ -45,7 +45,6 @@
 
 ### 🏆 Awards
 - **Grand Prize**, Kakao & Goorm Hackathon 6th Cohort (2023)  
-- **Grand Prize**, KHU Valley Program Startup Camp 10th Cohort, Kyung Hee University (2023)  
 - **Excellence Award**, IN SOPT Hackathon 31st Cohort (2022)
 
 ---
